@@ -11,16 +11,16 @@
   --gradient-90: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.9), rgba(var(--gradient-secondary), 0.9));
   --text-shadow: 1;
   --chat-embed: var(--background-secondary);
-  --discord-green: 67, 181, 129;
-  --discord-yellow: 219, 171, 9;
+  --discord-green: 27, 209, 73;
+  --discord-yellow: 230, 202, 21;
   --discord-red: 215, 58, 73;
-  --discord-purple: 89, 54, 149;
+  --discord-purple: 91, 33, 191;
   --discord-invisible: 117, 128, 142;
   --discord-nitro: 255, 115, 250;
   --discord-blurple: 114, 137, 218;
-  --discord-spotify: 29, 185, 84;
+  --discord-spotify: 27, 209, 73;
   --discord-twitch: 89, 54, 149;
-  --discord-xbox: 16, 124, 16;
+  --discord-xbox: 28, 176, 28;
   --version: "Frosted Glass 2.0.4";
 }
 .theme-dark {
