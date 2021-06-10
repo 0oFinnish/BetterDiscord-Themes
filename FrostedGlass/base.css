@@ -345,7 +345,7 @@
 }
 #app-mount .bd-pfbtn,
 #app-mount .lookFilled-1Gx00P.colorBrand-3pXr91 {
-  background: var(--gradient);
+  background: rgba(95,0,255);
 }
 #app-mount .lookLink-9FtZy-.colorBrand-3pXr91 {
   color: rgb(var(--gradient-primary));
