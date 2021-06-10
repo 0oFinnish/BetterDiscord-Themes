@@ -14,7 +14,7 @@
   --gradient-90: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.9), rgba(var(--gradient-secondary), 0.9));
   --text-shadow: 1;
   --chat-embed: var(--background-secondary);
-  --discord-green: 67,181,129;
+  --discord-green: 32, 201, 77;
   --discord-yellow: 219,171,9;
   --discord-red: 215,58,73;
   --discord-purple: 89,54,149;
